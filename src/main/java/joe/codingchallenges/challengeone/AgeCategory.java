@@ -1,4 +1,4 @@
-package joe.codingchallenges.challengeousfour;
+package joe.codingchallenges.challengeone;
 
 import java.io.*;
 import java.nio.file.Files;

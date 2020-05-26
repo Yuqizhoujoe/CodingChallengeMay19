@@ -1,4 +1,4 @@
-package joe.codingchallenges.chanllengethree;
+package joe.codingchallenges.challengeone;
 
 import java.awt.*;
 import java.io.*;

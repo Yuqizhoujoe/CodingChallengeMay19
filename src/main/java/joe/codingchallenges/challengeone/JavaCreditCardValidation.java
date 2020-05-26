@@ -1,4 +1,4 @@
-package joe.codingchallenges.chanllengetwo;
+package joe.codingchallenges.challengeone;
 
 public class JavaCreditCardValidation {
 

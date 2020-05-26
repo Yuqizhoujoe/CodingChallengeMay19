@@ -1,4 +1,4 @@
-package joe.codingchallenges.chanllengeone;
+package joe.codingchallenges.challengeone;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
